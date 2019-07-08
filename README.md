@@ -1,2 +1,2 @@
-# Old-R-Presentation
+# R-Presentation
 analyzes bitcoin prices
