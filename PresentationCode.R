@@ -1,8 +1,11 @@
-install.packages("ggplot2")#, "reshape2", "plyr", "languageR", "lme4", "psych")
+install.packages("ggplot2")
+install.packages("plyr")
+#, "reshape2", "plyr", "languageR", "lme4", "psych")
 
 library(ggplot2)
 library(plyr)
 
+#choose BTCgood3.csv
 bitcoinData<-read.csv(file.choose())
 
 head(bitcoinData[3:6])
