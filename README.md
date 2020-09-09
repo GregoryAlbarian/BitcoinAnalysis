@@ -6,4 +6,4 @@ I got the data on Kaggle.
 
 __for setup:__
 * have R installed
-* for the file choose BTCgood3.csv
+* when the file explorer shows up choose BTCgood3.csv
